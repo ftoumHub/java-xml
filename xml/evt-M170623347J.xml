@@ -1,0 +1,108 @@
+<personneImpliquee>
+  <identifiant>100004658009</identifiant>
+  <codeRole>01</codeRole>
+  <numeroSocietaire>1350897</numeroSocietaire>
+  <codePersonne>1</codePersonne>
+  <codeType>01</codeType>
+  <codeStatut>0</codeStatut>
+  <codeTypeResponsabilite>01</codeTypeResponsabilite>
+  <codePays>0</codePays>
+  <ListeLienSinistrePims>
+    <lienSinistrePim>
+      <identifiant>100000521823</identifiant>
+      <objetSinistre>
+        <identifiant>100006547694</identifiant>
+        <vehiculeSinistre>
+          <identifiant>100003541152</identifiant>
+          <typeIdentificationVehicule>7</typeIdentificationVehicule>
+          <immatriculation>FK-446-HT</immatriculation>
+          <remorqueVehicule>2</remorqueVehicule>
+          <numeroRepertoireVehicule>57223</numeroRepertoireVehicule>
+          <infoVol>00</infoVol>
+          <libelleMarque>RENAULT</libelleMarque>
+          <natureObstacle>4</natureObstacle>
+          <denominationVehiculeLongue>CLIO 3 1.2 16V 75 CH AUTHENTIQUE</denominationVehiculeLongue>
+          <vehiculePersonne>
+            <identifiant>100003586032</identifiant>
+            <nom>VERYOV</nom>
+            <prenom>Clement</prenom>
+            <sexe>1</sexe>
+            <circonstanceAggravante>0</circonstanceAggravante>
+            <typeConducteur>3</typeConducteur>
+            <numeroConducteur>0</numeroConducteur>
+          </vehiculePersonne>
+        </vehiculeSinistre>
+        <ListeDetailObjetSinistres>
+          <detailObjetSinistres>
+            <identifiant>100000334461</identifiant>
+            <zoneChoc>4</zoneChoc>
+          </detailObjetSinistres>
+          <detailObjetSinistres>
+            <identifiant>100000334462</identifiant>
+            <zoneChoc>6</zoneChoc>
+          </detailObjetSinistres>
+          <detailObjetSinistres>
+            <identifiant>100000334463</identifiant>
+            <zoneChoc>7</zoneChoc>
+          </detailObjetSinistres>
+        </ListeDetailObjetSinistres>
+      </objetSinistre>
+    </lienSinistrePim>
+  </ListeLienSinistrePims>
+</personneImpliquee>
+<personneImpliquee>
+<identifiant>100004947170</identifiant>
+<identifiantPersonnePrincipale>100004658009</identifiantPersonnePrincipale>
+<codeRole>15</codeRole>
+<codePersonne>1</codePersonne>
+<codeType>01</codeType>
+<codeStatut>1</codeStatut>
+<reference>29577015</reference>
+<nom>duvjosyz vsuztqesv</nom>
+<codeTypeAdresse>1</codeTypeAdresse>
+<codePostal>1120</codePostal>
+<commune>montluel</commune>
+<codePays>0</codePays>
+<ListeLienSinistrePims>
+  <lienSinistrePim>
+    <identifiant>100000665931</identifiant>
+    <objetSinistre>
+      <identifiant>100006778112</identifiant>
+      <vehiculeSinistre>
+        <identifiant>100003682468</identifiant>
+        <typeIdentificationVehicule>7</typeIdentificationVehicule>
+        <immatriculation>TF-282-BE</immatriculation>
+        <remorqueVehicule>2</remorqueVehicule>
+        <infoVol>00</infoVol>
+        <natureObstacle>11</natureObstacle>
+        <vehiculePersonne>
+          <identifiant>100003729740</identifiant>
+          <nom>duvjosyz vsuztqesv</nom>
+          <sexe>0</sexe>
+          <circonstanceAggravante>0</circonstanceAggravante>
+          <typeConducteur>0</typeConducteur>
+          <numeroConducteur>0</numeroConducteur>
+        </vehiculePersonne>
+      </vehiculeSinistre>
+      <ListeDetailObjetSinistres></ListeDetailObjetSinistres>
+    </objetSinistre>
+  </lienSinistrePim>
+</ListeLienSinistrePims>
+</personneImpliquee>
+<personneImpliquee>
+<identifiant>100004947171</identifiant>
+<identifiantPersonnePrincipale>100004947170</identifiantPersonnePrincipale>
+<codeTypeInterlocuteur>02</codeTypeInterlocuteur>
+<codePersonne>0</codePersonne>
+<codeType>03</codeType>
+<codeStatut>0</codeStatut>
+<codeAssureur>295</codeAssureur>
+<reference>29577015</reference>
+<nom>UKKYUMN YUQC</nom>
+<codeTypeAdresse>2</codeTypeAdresse>
+<numeroVoie>TSA 61015</numeroVoie>
+<codePostal>92087</codePostal>
+<commune>PARIS LA DEFENSE CEDEX</commune>
+<codePays>0</codePays>
+<ListeLienSinistrePims></ListeLienSinistrePims>
+</personneImpliquee>

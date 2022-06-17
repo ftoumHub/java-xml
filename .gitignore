@@ -1,0 +1,10 @@
+.DS_Store
+
+# Folders
+.idea
+*.iml
+.vscode
+
+### Maven ###
+target/
+

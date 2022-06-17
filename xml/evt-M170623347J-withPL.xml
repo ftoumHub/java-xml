@@ -1,0 +1,44 @@
+<personneImpliquee>
+<identifiant>100004947170</identifiant>
+<identifiantPersonnePrincipale>100004658009</identifiantPersonnePrincipale>
+<codeRole>15</codeRole>
+<codePersonne>1</codePersonne>
+<codeType>01</codeType>
+<codeStatut>1</codeStatut>
+<codePays>0</codePays>
+<personnesLiees>
+  <personneLiee>
+    <identifiant>100004947171</identifiant>
+    <identifiantPersonnePrincipale>100004947170</identifiantPersonnePrincipale>
+    <codeTypeInterlocuteur>02</codeTypeInterlocuteur>
+    <codePersonne>0</codePersonne>
+    <codeType>03</codeType>
+    <codeStatut>0</codeStatut>
+    <codeAssureur>295</codeAssureur>
+    <reference>29577015</reference>
+    <nom>UKKYUMN YUQC</nom>
+    <codeTypeAdresse>2</codeTypeAdresse>
+    <numeroVoie>TSA 61015</numeroVoie>
+    <codePostal>92087</codePostal>
+    <commune>PARIS LA DEFENSE CEDEX</commune>
+    <codePays>0</codePays>
+  </personneLiee>
+</personnesLiees>
+<vehicules>
+  <identifiant>100003682468</identifiant>
+  <typeIdentificationVehicule>7</typeIdentificationVehicule>
+  <immatriculation>TF-282-BE</immatriculation>
+  <remorqueVehicule>2</remorqueVehicule>
+  <infoVol>00</infoVol>
+  <natureObstacle>11</natureObstacle>
+  <vehiculePersonne>
+    <identifiant>100003729740</identifiant>
+    <nom>duvjosyz vsuztqesv</nom>
+    <sexe>0</sexe>
+    <circonstanceAggravante>0</circonstanceAggravante>
+    <typeConducteur>0</typeConducteur>
+    <numeroConducteur>0</numeroConducteur>
+  </vehiculePersonne>
+  <zoneChocs></zoneChocs>
+</vehicules>
+</personneImpliquee>
